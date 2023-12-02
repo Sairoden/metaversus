@@ -1,5 +1,5 @@
 function GetStarted() {
-  return <div>GetStarted</div>;
+  return <section>GetStarted</section>;
 }
 
 export default GetStarted;

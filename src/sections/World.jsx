@@ -1,5 +1,5 @@
 function World() {
-  return <div>World</div>;
+  return <section>World</section>;
 }
 
 export default World;

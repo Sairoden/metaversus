@@ -1,5 +1,5 @@
 function WhatsNew() {
-  return <div>WhatsNew</div>;
+  return <section>WhatsNew</section>;
 }
 
 export default WhatsNew;

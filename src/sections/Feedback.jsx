@@ -1,5 +1,5 @@
 function Feedback() {
-  return <div>Feedback</div>;
+  return <section>Feedback</section>;
 }
 
 export default Feedback;
